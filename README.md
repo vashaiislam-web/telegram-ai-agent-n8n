@@ -14,4 +14,4 @@ Telegram Trigger → AI Agent → Telegram Reply
 ## Tools Used
 - n8n
 - Gemini API
-- Telegram Bot API
+- Telegram Bot AP
